@@ -54,6 +54,21 @@ hr {
 ========================================
 */
 
+@-webkit-keyframes rotation {
+    0%   { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes rotation {
+    0%   { -moz-transform: rotate(0deg); }
+    100% { -moz-transform: rotate(360deg); }
+}
+
+@-ms-keyframes rotation {
+    0%   { -ms-transform: rotate(0deg); }
+    100% { -ms-transform: rotate(360deg); }
+}
+
 .center {
 	text-align: center;
 }
@@ -72,4 +87,10 @@ hr {
 	margin-right: auto;
 	width: 50%;
 	text-align: left;
+}
+
+.spin:hover {
+	-webkit-animation: rotation .2s linear;
+	-moz-animation: rotation .2s linear;
+	-ms-animation: rotation .2s linear;
 }
