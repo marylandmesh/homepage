@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+html {
+	
+}
+
+body {
+	background-color: #FFF;
+	color: #333;
+	margin: 0;
+	font-family: SourceSansProLight;
+}
+
+a {
+	color: #F90;
+	text-decoration: none;
+	-webkit-transition: color .5s ease;
+	-moz-transition: color .5s ease;
+	-o-transition: color .5s ease;
+	-ms-transition: color .5s ease;
+	transition: color .5s ease;
+}
+
+a:hover {
+	color: #333;
+}
+
+hr {
+	width: 50%;
+	height: 1px;
+	border: 0px;
+	background-color: #EEE;
+}
+
+/*
+========================================
+				FONTS
+========================================
+*/
+
+@font-face {
+	font-family: SourceSansProLight;
+	src: url('../font/SourceSansPro-Light.ttf');
+}
+
+@font-face {
+	font-family: Icons;
+	src: url('../font/icons.ttf');
+}
+
+/*
+========================================
+			INDEX PAGE CENTER
+========================================
+*/
+
+.center {
+	text-align: center;
+}
+
+.title {
+	font-size: 64px;
+}
+
+.icon {
+	font-family: Icons;
+	font-size: 14px;
+}
+
+.wrap {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: left;
+}
