@@ -44,8 +44,37 @@ hr {
 }
 
 @font-face {
+	font-family: SourceSansProRegular;
+	src: url('../font/SourceSansPro-Regular	.ttf');
+}
+
+@font-face {
 	font-family: Icons;
 	src: url('../font/icons.ttf');
+}
+
+/*
+========================================
+			KEYFRAMES
+========================================
+*/
+
+@-webkit-keyframes fade {
+	from { opacity: 0; }
+	50% { opacity: .5; }
+	to { opacity: 1; }
+}
+
+@-moz-keyframes fade {
+	from { opacity: 0; }
+	50% { opacity: .5; }
+	to { opacity: 1; }
+}
+
+@keyframes fade {
+	from { opacity: 0; }
+	50% { opacity: .5; }
+	to { opacity: 1; }
 }
 
 /*
@@ -53,21 +82,6 @@ hr {
 			INDEX PAGE CENTER
 ========================================
 */
-
-@-webkit-keyframes rotation {
-    0%   { -webkit-transform: rotate(0deg); }
-    100% { -webkit-transform: rotate(360deg); }
-}
-
-@-moz-keyframes rotation {
-    0%   { -moz-transform: rotate(0deg); }
-    100% { -moz-transform: rotate(360deg); }
-}
-
-@-ms-keyframes rotation {
-    0%   { -ms-transform: rotate(0deg); }
-    100% { -ms-transform: rotate(360deg); }
-}
 
 .center {
 	text-align: center;
@@ -89,8 +103,50 @@ hr {
 	text-align: left;
 }
 
-.spin:hover {
-	-webkit-animation: rotation .2s linear;
-	-moz-animation: rotation .2s linear;
-	-ms-animation: rotation .2s linear;
+/*
+========================================
+			PAGES
+========================================
+*/
+
+.header {
+	font-size: 32px;
+}
+
+.question {
+	font-family: SourceSansProRegular;
+	padding: 5px;
+	background-color: #EEE;
+	border: 1px solid #CCC;
+	-webkit-transition: background-color .5s ease;
+	-moz-transition: background-color .5s ease;
+	-o-transition: background-color .5s ease;
+	-ms-transition: background-color .5s ease;
+	transition: background-color .5s ease;
+}
+
+.question:hover {
+	background-color: #DDD;
+}
+
+.answer {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	border-top: none;
+	padding: 5px;
+	margin-bottom: 5px;
+	display: none;
+	opacity: 0;
+}
+
+.answer:target {
+	opacity: 1;
+	-webkit-animation: fade .5s linear;
+	-moz-animation: fade .5s linear;
+	animation: fade .5s linear;
+	display: block;
+}
+
+a.nocolor, .nocolor {
+	color: #333;
 }
