@@ -114,6 +114,7 @@ hr {
 }
 
 .question {
+	margin-top: 5px;
 	font-family: SourceSansProRegular;
 	padding: 5px;
 	background-color: #EEE;
