@@ -151,3 +151,22 @@ hr {
 a.nocolor, .nocolor {
 	color: #333;
 }
+
+/*
+========================================
+			BLOG
+========================================
+*/
+
+.post {
+	border: 1px solid #EEE;
+	margin-top: 5px;
+}
+
+.post:nth-child(odd) {
+	background-color: #F9F9F9;
+}
+
+.post:nth-child(even) {
+	background-color: #FFF;
+}
