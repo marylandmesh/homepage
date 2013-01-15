@@ -161,6 +161,7 @@ a.nocolor, .nocolor {
 .post {
 	border: 1px solid #EEE;
 	margin-top: 5px;
+	padding: 5px;
 }
 
 .post:nth-child(odd) {
