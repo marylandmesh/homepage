@@ -179,7 +179,7 @@ a.nocolor, .nocolor {
 }
 
 .post:nth-child(even) {
-	background-color: #FFF;
+	background-color: #FFF !important;
 	color: #333;
 }
 
