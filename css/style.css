@@ -45,7 +45,7 @@ hr {
 
 @font-face {
 	font-family: SourceSansProRegular;
-	src: url('../font/SourceSansPro-Regular	.ttf');
+	src: url('../font/SourceSansPro-Regular.ttf');
 }
 
 @font-face {
@@ -159,7 +159,7 @@ a.nocolor, .nocolor {
 */
 
 .post {
-	border: 1px solid #CCC;
+	border: 1px solid #EEE;
 	margin-top: 5px;
 	padding: 5px;
 }
@@ -169,11 +169,11 @@ a.nocolor, .nocolor {
 }
 
 .post:nth-child(even) {
-	background-color: #EEE;
+	background-color: #FFF;
 }
 
 .author {
-	color: #AAA;
+	color: #CCC;
 }
 
 .date {
