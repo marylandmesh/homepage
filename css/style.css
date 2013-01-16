@@ -169,16 +169,16 @@ a.nocolor, .nocolor {
 	transition: background-color .5s ease;
 }
 
-.post:hover {
+.post:hover, .post:nth-child(odd):hover, .post:nth-child(even):hover {
 	background-color: #EEE;
 }
 
-.post:nth-child(odd) {
+.post:nth-child(odd), a.post:nth-child(odd) {
 	background-color: #F9F9F9;
 	color: #333;
 }
 
-.post:nth-child(even) {
+.post:nth-child(even), a.post:nth-child(even) {
 	background-color: #FFF;
 	color: #333;
 }
