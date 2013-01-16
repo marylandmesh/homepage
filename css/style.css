@@ -170,7 +170,7 @@ a.nocolor, .nocolor {
 	display: inline-block;
 	padding: 1%;
 	margin-top: 5px;
-	width: 93%;
+	width: 95%;
 	font-family: SourceSansProRegular;
 	-webkit-transition: background-color .5s ease;
 	-moz-transition: background-color .5s ease;
@@ -194,7 +194,7 @@ a.nocolor, .nocolor {
 	transition: background-color .5s ease;
 }
 
-.box:hover {
+.box:hover, .bigbox:hover {
 	background-color: #DDD;
 }
 
