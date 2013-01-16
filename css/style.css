@@ -109,6 +109,12 @@ hr {
 	font-size: 32px;
 }
 
+/*
+========================================
+			FAQ
+========================================
+*/
+
 .question {
 	margin-top: 5px;
 	font-family: SourceSansProRegular;
@@ -147,6 +153,55 @@ hr {
 a.nocolor, .nocolor {
 	color: #333;
 }
+
+/*
+========================================
+			CONTACT
+========================================
+*/
+
+.boxy {
+	text-align: center;
+}
+
+.box {
+	background-color: #EEE;
+	border: 1px solid #CCC;
+	display: inline-block;
+	width: 45%;
+	padding: 1%;
+	margin-top: 5px;
+	font-family: SourceSansProRegular;
+	-webkit-transition: background-color .5s ease;
+	-moz-transition: background-color .5s ease;
+	-o-transition: background-color .5s ease;
+	-ms-transition: background-color .5s ease;
+	transition: background-color .5s ease;
+}
+
+.box:hover {
+	background-color: #DDD;
+}
+
+.unboxed {
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	display: none;
+	opacity: 0;
+}
+
+.unboxed:target {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	opacity: 1;
+	-webkit-animation: fade .5s linear;
+	-moz-animation: fade .5s linear;
+	animation: fade .5s linear;
+	display: block;
+}
+
 
 /*
 ========================================
