@@ -162,15 +162,16 @@ a.nocolor, .nocolor {
 	border: 1px solid #EEE;
 	margin-top: 5px;
 	padding: 5px;
-}
-
-.post:hover, .post:nth-child(odd):hover, .post:nth-child(even):hover {
-	background-color: #CCC;
 	-webkit-transition: background-color .5s ease;
 	-moz-transition: background-color .5s ease;
 	-o-transition: background-color .5s ease;
 	-ms-transition: background-color .5s ease;
 	transition: background-color .5s ease;
+}
+
+.post:hover, .post:nth-child(odd):hover, .post:nth-child(even):hover {
+	background-color: #EEE;
+	border: 1px solid #CCC;
 }
 
 .post:nth-child(odd) {
