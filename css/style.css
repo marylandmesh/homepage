@@ -173,12 +173,12 @@ a.nocolor, .nocolor {
 	background-color: #EEE;
 }
 
-a.thispost.post:nth-child(odd) {
+.post:nth-child(odd) {
 	background-color: #F9F9F9;
 	color: #333;
 }
 
-a.thispost.post:nth-child(even) {
+.post:nth-child(even) {
 	background-color: #FFF;
 	color: #333;
 }
