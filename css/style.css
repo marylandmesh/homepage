@@ -164,6 +164,15 @@ a.nocolor, .nocolor {
 	padding: 5px;
 }
 
+.post:hover {
+	background-color: #CCC;
+	-webkit-transition: background-color .5s ease;
+	-moz-transition: background-color .5s ease;
+	-o-transition: background-color .5s ease;
+	-ms-transition: background-color .5s ease;
+	transition: background-color .5s ease;
+}
+
 .post:nth-child(odd) {
 	background-color: #F9F9F9;
 }
@@ -172,13 +181,8 @@ a.nocolor, .nocolor {
 	background-color: #FFF;
 }
 
-.thispost:target {
-	background-color: #CCC;
-	-webkit-transition: background-color .5s ease;
-	-moz-transition: background-color .5s ease;
-	-o-transition: background-color .5s ease;
-	-ms-transition: background-color .5s ease;
-	transition: background-color .5s ease;
+:target {
+	
 }
 
 .author {
