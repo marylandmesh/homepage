@@ -169,7 +169,22 @@ a.nocolor, .nocolor {
 }
 
 .post:nth-child(even) {
-	background-color: #FFF;
+	background-color: #DDD;
+}
+
+.author {
+	color: #EEE;
+}
+
+.date {
+	color: #EEE;
+	display: inline-block;
+}
+
+.time {
+	color: #EEE;
+	display: inline-block;
+	float: right;
 }
 
 /*
