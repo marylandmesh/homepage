@@ -171,7 +171,6 @@ a.nocolor, .nocolor {
 
 .post:hover, .post:nth-child(odd):hover, .post:nth-child(even):hover {
 	background-color: #EEE;
-	border: 1px solid #CCC;
 }
 
 .post:nth-child(odd) {
