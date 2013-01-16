@@ -164,6 +164,21 @@ a.nocolor, .nocolor {
 	text-align: center;
 }
 
+.bigbox {
+	background-color: #EEE;
+	border: 1px solid #CCC;
+	display: inline-block;
+	padding: 1%;
+	margin-top: 5px;
+	width: 93%;
+	font-family: SourceSansProRegular;
+	-webkit-transition: background-color .5s ease;
+	-moz-transition: background-color .5s ease;
+	-o-transition: background-color .5s ease;
+	-ms-transition: background-color .5s ease;
+	transition: background-color .5s ease;
+}
+
 .box {
 	background-color: #EEE;
 	border: 1px solid #CCC;
