@@ -133,7 +133,7 @@ hr {
 .answer {
 	background-color: #FFF !important;
 	border: 1px solid #CCC;
-	border-top: none;
+	border-top: none !important;
 	padding: 5px;
 	margin-bottom: 5px;
 	display: none;
