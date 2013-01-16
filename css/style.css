@@ -109,6 +109,10 @@ hr {
 	font-size: 32px;
 }
 
+.footer {
+	margin-bottom: 10px;
+}
+
 /*
 ========================================
 			FAQ
@@ -215,6 +219,31 @@ a.nocolor, .nocolor {
 	-moz-animation: fade .5s linear;
 	animation: fade .5s linear;
 	display: block;
+}
+
+table {
+	text-align: center;
+	border: 1px solid #CCC;
+}
+
+tr:nth-child(odd) {
+	background-color: #EEE;
+}
+
+tr:nth-child(even) {
+	background-color: #FFF;
+}
+
+tr:first-child, td:first-child {
+	font-family: SourceSansProRegular;
+}
+
+tr, td, table {
+	margin: auto;
+}
+
+td {
+	padding: 10px;
 }
 
 
