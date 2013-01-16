@@ -178,6 +178,7 @@ a.nocolor, .nocolor {
 
 .date {
 	display: inline-block;
+	float: left;
 }
 
 .time {
