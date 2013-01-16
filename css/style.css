@@ -164,7 +164,7 @@ a.nocolor, .nocolor {
 	padding: 5px;
 }
 
-.post:hover {
+.post:hover, .post:nth-child(odd):hover, .post:nth-child(even):hover {
 	background-color: #CCC;
 	-webkit-transition: background-color .5s ease;
 	-moz-transition: background-color .5s ease;
