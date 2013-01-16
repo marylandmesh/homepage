@@ -159,7 +159,7 @@ a.nocolor, .nocolor {
 */
 
 .post {
-	border: 1px solid #EEE;
+	border: 1px solid #CCC;
 	margin-top: 5px;
 	padding: 5px;
 }
@@ -169,20 +169,18 @@ a.nocolor, .nocolor {
 }
 
 .post:nth-child(even) {
-	background-color: #DDD;
+	background-color: #EEE;
 }
 
 .author {
-	color: #EEE;
+	color: #AAA;
 }
 
 .date {
-	color: #EEE;
 	display: inline-block;
 }
 
 .time {
-	color: #EEE;
 	display: inline-block;
 	float: right;
 }
