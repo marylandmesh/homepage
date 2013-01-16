@@ -168,9 +168,9 @@ a.nocolor, .nocolor {
 	background-color: #EEE;
 	border: 1px solid #CCC;
 	display: inline-block;
-	padding: 1%;
+	padding: 1% 6px;
 	margin-top: 5px;
-	width: 93%;
+	width: 90%;
 	font-family: SourceSansProRegular;
 	-webkit-transition: background-color .5s ease;
 	-moz-transition: background-color .5s ease;
@@ -184,7 +184,7 @@ a.nocolor, .nocolor {
 	border: 1px solid #CCC;
 	display: inline-block;
 	width: 45%;
-	padding: 1%;
+	padding: 1% 2px;
 	margin-top: 5px;
 	font-family: SourceSansProRegular;
 	-webkit-transition: background-color .5s ease;
