@@ -35,6 +35,6 @@ if [ -e "$CONFFILE" ]; then
 fi
 
 echo "Trying to symlink $CONFFILE to this repository."
-ln -s "$CONFFILE" ./lighttpd.conf
+ln -s $(pwd)/lighttpd.conf "$CONFFILE" 
 
 echo "Successful!"
