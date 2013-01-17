@@ -28,7 +28,7 @@ if [ ! -e "$CHECKFILE" ]; then
 	exit 1
 fi
 
-if [ ! -e "$CONFFILE" ]; then
+if [ -e "$CONFFILE" ]; then
 	echo "The configuration file already exists."
 	echo "Moving it to $CONFFILE.backup"
 	mv "$CONFFILE" "$CONFFILE.backup"
