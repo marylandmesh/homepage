@@ -340,6 +340,7 @@ td {
 	background-color: #EEE;
 	border: 1px solid #CCC;
 	border-bottom: none;
+	width: 100%;
 }
 
 .sidebar li:last-child {
