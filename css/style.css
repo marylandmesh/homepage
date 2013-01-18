@@ -309,16 +309,16 @@ td {
 
 .sidebar_l {
 	float: left;
-	width: 24%;
+	width: 22%;
 	border: 1px solid #EEE;
 	display: inline-block;
-	margin-left: .5%;
+	margin-left: 1%;
 }
 
 .sidebar_r {
 	float: right;
-	width: 24%;
+	width: 22%;
 	border: 1px solid #EEE;
 	display: inline-block;
-	margin-right: .5%;
+	margin-right: 1%;
 }
