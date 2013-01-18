@@ -18,4 +18,4 @@ Luke Evers
 
 This is the body, where we can put pretty much anything we want! 
 ```
-It's simple!
+Also, remember to name each file sequentially and have the extension `.md`.
