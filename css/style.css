@@ -349,6 +349,15 @@ td {
 	transition: background-color .5s ease;
 }
 
+a.sidebar li {
+	border: 1px solid #CCC;
+	border-top: none;
+}
+
+a.sidebar li:first-child {
+	border-top: 1px solid #CCC;
+}
+
 .sidebar li:hover {
 	background-color: #F90;
 	color: #FFF;
