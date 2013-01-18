@@ -101,6 +101,7 @@ hr {
 	width: 50%;
 	text-align: left;
 	display: inline-block;
+	-o-display: block !important;
 }
 
 /*
