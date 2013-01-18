@@ -7,11 +7,7 @@
     </head>
     <body>
     	<div class="center">
-        	<div class="title">
-            	<a href="/" class="nocolor">Maryland Meshnet</a>
-            </div>
-            The Free State's Free Internet
-            <hr>
+        	<?php require("header.php"); ?>
             <div class="wrap">
             	<div class="boxy">
                 	<a href="#IRC">
