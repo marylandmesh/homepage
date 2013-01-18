@@ -14,9 +14,17 @@
                     	<a href="/faq.php"><li>FAQ</li></a>
 					</ul>
                     <p>
-                    There should be a nice bio here for people to read.
-                    Yep, yep, yep. :D
+                    Hello there. We, Maryland Mesh, are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to <i>everyone</i>.
                     </p>
+					<p>
+					We believe knowledge, and information, and communication should be free, open, and universal. No price can be put on the technology that has allowed collaboration and sharing across the world.
+					</p>
+					<p>
+					No entity should have the power to control what can be said, or to whom, across the Internet. That is why we want to put the Internet in the hands of **everyone** - in your hands, and in your friends' hands, and in your neighbors' hands.
+					</p>
+					<p>
+					That's why we're building a <a href="faq.html#meshnet">Meshnet</a>.
+					</p>
                     <ul>
                     	<a href="/contact.php"><li>Contact</li></a>
 					</ul>
