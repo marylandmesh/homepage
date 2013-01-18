@@ -348,7 +348,7 @@ td {
 	-o-transition: background-color .5s ease;
 	-ms-transition: background-color .5s ease;
 	transition: background-color .5s ease;
-	border-bottom: 1px solid #CCC;
+	border: 1px solid #CCC;
 }
 
 .sidebar li:hover {
