@@ -348,6 +348,11 @@ td {
 	-o-transition: background-color .5s ease;
 	-ms-transition: background-color .5s ease;
 	transition: background-color .5s ease;
+	border: 1px solid #CCC;
+	border-bottom: none;
+}
+
+.sidebar li:last-child, a.sidebar li:last-child {
 	border-bottom: 1px solid #CCC;
 }
 
