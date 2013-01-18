@@ -307,10 +307,17 @@ td {
 ========================================
 */
 
+.sidebar {
+	background-color: #EEE;
+	border: 1px solid #CCC;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+
 .sidebar_l {
 	float: left;
 	width: 22.7%;
-	border: 1px solid #EEE;
 	display: inline-block;
 	margin-left: 1%;
 }
@@ -318,7 +325,6 @@ td {
 .sidebar_r {
 	float: right;
 	width: 22.7%;
-	border: 1px solid #EEE;
 	display: inline-block;
 	margin-right: 1%;
 }

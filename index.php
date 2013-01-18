@@ -9,7 +9,9 @@
     	<div class="center">
         	<?php require("header.php"); ?>
             <div class="sidebar_l">
-            	left
+            	<div class="sidebar">
+                	left sidebar
+                </div>
             </div>
             <div class="wrap">
             	<?php
@@ -40,7 +42,9 @@
 				?>
             </div>
             <div class="sidebar_r">
-            	right
+            	<div class="sidebar">
+                	right sidebar
+                </div>
             </div>
             <hr>
             <?php require("footer.php"); ?>
