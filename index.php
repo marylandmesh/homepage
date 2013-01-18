@@ -10,7 +10,9 @@
         	<?php require("header.php"); ?>
             <div class="sidebar_l">
             	<div class="sidebar">
-                	left sidebar
+                	<ul>
+                    	<a href="/faq.php"><li>FAQ</li></a>
+					</ul>
                 </div>
             </div>
             <div class="wrap">
