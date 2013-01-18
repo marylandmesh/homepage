@@ -49,6 +49,8 @@
 						break;
 					}
 				?>
+            <hr>
+            <?php require("footer.php"); ?>
             </div>
             <div class="sidebar_r">
             	<div class="sidebar">
@@ -62,8 +64,6 @@
                     </ul>
                 </div>
             </div>
-            <hr>
-            <?php require("footer.php"); ?>
         </div>        
     </body>
 </html>
