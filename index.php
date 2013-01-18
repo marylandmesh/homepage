@@ -13,10 +13,10 @@
                 	<ul>
                     	<a href="/faq.php"><li>FAQ</li></a>
 					</ul>
-                    
+                    <p>
                     There should be a nice bio here for people to read.
                     Yep, yep, yep. :D
-                    
+                    </p>
                     <ul>
                     	<a href="/contact.php"><li>Contact</li></a>
 					</ul>
