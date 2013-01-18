@@ -336,7 +336,7 @@ td {
 	boder: 1px solid #CCC;
 }
 
-.sidebar li, a.sidebar li {
+.sidebar li, a.sidebar {
 	margin: 0;
 	padding: 3px 0px;
 	text-align: center;
@@ -352,7 +352,7 @@ td {
 	border-bottom: none;
 }
 
-.sidebar li:last-child, a.sidebar li:last-child {
+a.sidebar {
 	border-bottom: 1px solid #CCC;
 }
 
