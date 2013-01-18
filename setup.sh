@@ -6,14 +6,14 @@
 # is usable for hosting the site.
 set -e
 
-cd $(dirname "$0")
+cd "$(dirname "$0")"
 
 if [ -z "$CHECKFILE" ]; then
 	CHECKFILE=/etc/lighttpd
 fi
 
-if [ -z "$CONFFILE" ]; then
-	CONFFILE=/etc/lighttpd/lighttpd.conf
+if [ -z "$CONFFILES" ]; then
+	CONFFILES=/etc/lighttpd/lighttpd.conf,/etc/lighttpd/lighttpd.conf.vhosts
 fi
 
 echo "Beginning setup."
@@ -28,13 +28,15 @@ if [ ! -e "$CHECKFILE" ]; then
 	exit 1
 fi
 
-if [ -e "$CONFFILE" ]; then
-	echo "The configuration file already exists."
-	echo "Moving it to $CONFFILE.backup"
-	mv "$CONFFILE" "$CONFFILE.backup"
-fi
+for FILE in $(echo $CONFFILES | tr ',' '\n'); do
+	if [ -e "$FILE" ]; then
+		echo "The configuration file already exists."
+		echo "Moving it to $FILE.backup"
+		mv "$FILE" "$FILE.backup"
+	fi
 
-echo "Trying to symlink $CONFFILE to this repository."
-ln -s $(pwd)/lighttpd.conf "$CONFFILE" 
+	echo "Trying to symlink $FILE to this repository."
+	ln -s $(pwd)/"$(basename "$FILE")" "$FILE" 
+done
 
 echo "Successful!"
