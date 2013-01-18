@@ -349,12 +349,12 @@ td {
 	transition: background-color .5s ease;
 }
 
-a.sidebar li {
+.sidebar li {
 	border: 1px solid #CCC;
 	border-top: none;
 }
 
-a.sidebar li:first-child {
+.sidebar li:first-child {
 	border-top: 1px solid #CCC;
 }
 
