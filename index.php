@@ -45,8 +45,9 @@
             	<div class="sidebar">
                 	<ul>
                     	<a href="http://www.reddit.com/r/marylandmesh/"><li>/r/marylandmesh</li></a>
-                        <a href="https://wiki.projectmeshnet.org/Maryland_Mesh"><li>wiki</li></a>
-                        <a href="https://plus.google.com/communities/100874292106037502249"><li>google+</li></a>
+                        <a href="https://wiki.projectmeshnet.org/Maryland_Mesh"><li>Wiki</li></a>
+                        <a href="https://plus.google.com/communities/100874292106037502249"><li>Google+</li></a>
+                        <a href="/faq.php"><li>FAQ</li></a>
                     </ul>
                 </div>
             </div>
