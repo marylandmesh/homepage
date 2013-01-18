@@ -309,7 +309,7 @@ td {
 
 .sidebar_l {
 	float: left;
-	width: 22.5%;
+	width: 22.7%;
 	border: 1px solid #EEE;
 	display: inline-block;
 	margin-left: 1%;
@@ -317,7 +317,7 @@ td {
 
 .sidebar_r {
 	float: right;
-	width: 22.5%;
+	width: 22.7%;
 	border: 1px solid #EEE;
 	display: inline-block;
 	margin-right: 1%;
