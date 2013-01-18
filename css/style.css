@@ -336,7 +336,7 @@ td {
 	boder: 1px solid #CCC;
 }
 
-.sidebar li, a.sidebar {
+.sidebar li {
 	margin: 0;
 	padding: 3px 0px;
 	text-align: center;
@@ -348,11 +348,6 @@ td {
 	-o-transition: background-color .5s ease;
 	-ms-transition: background-color .5s ease;
 	transition: background-color .5s ease;
-	border: 1px solid #CCC;
-	border-bottom: none;
-}
-
-a.sidebar {
 	border-bottom: 1px solid #CCC;
 }
 
