@@ -333,6 +333,7 @@ td {
 .sidebar ul {
 	margin: 0;
 	padding: 0;
+	boder: 1px solid #CCC;
 }
 
 .sidebar li, a.sidebar li {
