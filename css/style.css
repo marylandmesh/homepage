@@ -331,7 +331,6 @@ td {
 }
 
 .sidebar ul {
-	font-family: SourceSansProRegular;
 	margin: 0;
 	padding: 0;
 }
@@ -342,8 +341,6 @@ td {
 	text-align: center;
 	list-style: none;
 	background-color: #EEE;
-	border: 1px solid #CCC;
-	border-bottom: none;
 	width: 100%;
 	-webkit-transition: background-color .5s ease;
 	-moz-transition: background-color .5s ease;
@@ -354,8 +351,5 @@ td {
 
 .sidebar li:hover {
 	background-color: #F90;
-}
-
-a.sidebar li:last-child, .sidebar li:last-child {
-	border-bottom: 1px solid #CCC;
+	color: #FFF;
 }
