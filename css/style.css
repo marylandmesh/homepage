@@ -338,7 +338,7 @@ td {
 
 .sidebar li {
 	margin: 0;
-	padding: 3px 0px;
+	padding: 5px 0px;
 	text-align: center;
 	list-style: none;
 	background-color: #EEE;
@@ -349,11 +349,7 @@ td {
 	-ms-transition: background-color .5s ease;
 	transition: background-color .5s ease;
 	border: 1px solid #CCC;
-	border-bottom: none !important;
-}
-
-.sidebar li:last-child {
-	border-bottom: 1px solid #CCC !important;
+	margin-bottom: 1px;
 }
 
 .sidebar li:hover {
