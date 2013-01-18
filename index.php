@@ -20,10 +20,6 @@
 					<p>
 					That's why we're building a <a href="faq.php#meshnet">Meshnet</a>.
 					</p>
-					<ul>
-						<a href="/faq.php"><li>FAQ</li></a>
-                    	<a href="/contact.php"><li>Contact</li></a>
-					</ul>
                 </div>
             </div>
             <div class="wrap">
@@ -61,6 +57,8 @@
                         <a href="https://wiki.projectmeshnet.org/Maryland_Mesh"><li>Wiki</li></a>
                         <a href="https://plus.google.com/communities/100874292106037502249"><li>Google+</li></a>
                         <a href="http://maryland.ninux.org/"><li>Nodeshot</li></a>
+						<a href="/contact.php"><li>Contact Us</li></a>
+						<a href="/faq.php"><li>FAQ</li></a>
                     </ul>
                 </div>
             </div>
