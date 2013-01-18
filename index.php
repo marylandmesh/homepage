@@ -10,7 +10,7 @@
         	<?php require("header.php"); ?>
             <div class="wrap">
             	<?php
-					include_once "markdown.php";
+					include_once "blog/markdown.php";
 					$files = glob('blog/posts/*.{md}', GLOB_BRACE);
 					foreach (array_reverse($files) as $file) {
 						$name = substr($file, 6,-3);
