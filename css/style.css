@@ -351,10 +351,6 @@ td {
 	border-top: none !important;
 }
 
-.sidebar li:first-child {
-	border-top: 1px solid #CCC !important;
-}
-
 .sidebar li:hover {
 	background-color: #F90;
 	color: #FFF;
