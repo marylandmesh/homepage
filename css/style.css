@@ -337,7 +337,7 @@ td {
 
 .sidebar li {
 	margin: 0;
-	padding: 3px;
+	padding: 3px 0px;
 	text-align: center;
 	list-style: none;
 	background-color: #EEE;
