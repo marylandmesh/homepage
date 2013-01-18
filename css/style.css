@@ -350,6 +350,6 @@ a.sidebar li:hover {
 	background-color: #F90;
 }
 
-a.sidebar li:last-child {
+a.sidebar li:last-child, .sidebar li:last-child {
 	border-bottom: 1px solid #CCC;
 }
