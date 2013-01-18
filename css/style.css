@@ -331,6 +331,7 @@ td {
 }
 
 .sidebar ul {
+	font-family: SourceSansProRegular;
 	margin: 0;
 	padding: 0;
 }
@@ -344,6 +345,11 @@ td {
 	border: 1px solid #CCC;
 	border-bottom: none;
 	width: 100%;
+	-webkit-transition: background-color .5s ease;
+	-moz-transition: background-color .5s ease;
+	-o-transition: background-color .5s ease;
+	-ms-transition: background-color .5s ease;
+	transition: background-color .5s ease;
 }
 
 .sidebar li:hover {
