@@ -81,7 +81,9 @@ hr {
 
 .center {
 	text-align: center;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
 }
 
 .title {
@@ -98,6 +100,7 @@ hr {
 	margin-right: auto;
 	width: 50%;
 	text-align: left;
+	display: inline-block;
 }
 
 /*
@@ -308,10 +311,12 @@ td {
 	float: left;
 	width: 10%;
 	border: 1px solid #EEE;
+	display: inline-block;
 }
 
 .sidebar_r {
 	float: right;
 	width: 10%;
 	border: 1px solid #EEE;
+	display: inline-block;
 }
