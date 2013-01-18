@@ -11,7 +11,7 @@
             <div class="sidebar_l">
             	<div class="sidebar">
                     <p>
-                    Hello there. We, Maryland Mesh, are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to <i>everyone</i>.
+                    Hello there. We are a group of people <!--, amateurs, professionals, students, parents?--> dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to <i>everyone</i>.
                     </p>
 					<p>
 					We believe knowledge, and information, and communication should be free, open, and universal. No price can be put on the technology that has allowed collaboration and sharing across the world.
