@@ -8,7 +8,7 @@
     <body>
     	<div class="center">
         	<div class="title">
-            	<a href="index.html" class="nocolor">Maryland Meshnet</a>
+            	<a href="index.php" class="nocolor">Maryland Meshnet</a>
             </div>
             The Free State's Free Internet
             <hr>
@@ -140,7 +140,7 @@
                   you. Finding such a person can be done
                   on <a href="http://chat.efnet.org:9090/?channels=#marylandmesh&Login=Login">IRC</a>, 
                   <a href="http://reddit.com/r/marylandmesh">reddit</a>,
-                  or on our <a href="contact.html#mailinglist">mailing list</a>. We'll
+                  or on our <a href="contact.php#mailinglist">mailing list</a>. We'll
                   walk you through the process of connecting with as
                   much or as little assistance as you need. We're
                   usually around, and we're always happy to
@@ -156,18 +156,12 @@
                     The best way to see the active and potential nodes for the
                     Maryland Meshnet, exclusively, is to view our <a href="http://maryland.ninux.org/">nodeshot instance</a>.
                 </div>
-                <p><sub><i>Didn't answer your questions? Feel free to <a href="contact.html">contact</a> us, 
+                <p><sub><i>Didn't answer your questions? Feel free to <a href="contact.php">contact</a> us, 
                 <a href="https://github.com/marylandmesh/homepage/issues/new">submit an issue</a>, or shoot us
-                an <a href="contact.html#email">email</a>.</i></sub></p>
+                an <a href="contact.php#email">email</a>.</i></sub></p>
             </div>
             <hr>
-            <div class="footer">
-            <a href="/">Home</a> &bull;
-            <a href="blog/">Blog</a> &bull;
-            <a href="faq.html">FAQ</a> &bull;
-            <a href="contact.html">Contact</a> &bull;
-            <a href="http://maryland.ninux.org/">Nodeshot</a>
-            </div>
+            <?php require("footer.php"); ?>
         </div>        
     </body>
 </html>

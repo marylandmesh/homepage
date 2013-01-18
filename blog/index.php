@@ -42,13 +42,7 @@
                 
             </div>
             <hr>
-            <div class="footer">
-			<a href="/">Home</a> &bull;
-            <a href="/blog/index.php">Blog</a> &bull;
-            <a href="/faq.html">FAQ</a> &bull;
-            <a href="/contact.html">Contact</a> &bull;
-            <a href="http://maryland.ninux.org/">Nodeshot</a>
-            </div>
+           <?php require("/footer.php"); ?>
         </div>        
     </body>
 </html>

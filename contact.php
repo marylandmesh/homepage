@@ -103,7 +103,7 @@
                     Project Meshnet <a href="https://wiki.projectmeshnet.org/">wiki</a> is a growing page. Basic
                     information, and possibly some in-depth explanations can be found here. If you have questions
                     that are not answered <a href="https://wiki.projectmeshnet.org/Maryland_Mesh">there</a>, 
-                    or on the <a href="faq.html">FAQ</a>, <a href="contact.html">let us know</a>.</p>
+                    or on the <a href="faq.php">FAQ</a>, <a href="contact.php">let us know</a>.</p>
                 </div>
                 <div class="unboxed" id="mailinglist">
                 	#comingsoon
@@ -111,13 +111,7 @@
                 
             </div>
             <hr>
-            <div class="footer">
-            <a href="/">Home</a> &bull;
-            <a href="blog/">Blog</a> &bull;
-            <a href="faq.html">FAQ</a> &bull;
-            <a href="contact.html">Contact</a> &bull;
-            <a href="http://maryland.ninux.org/">Nodeshot</a>
-            </div>
+            <?php require("footer.php"); ?>
         </div>        
     </body>
 </html>
