@@ -7,7 +7,7 @@
     </head>
     <body>
     	<div class="center">
-        	<?php require("/header.php"); ?>
+        	<?php require("../header.php"); ?>
             <div class="wrap">
             	
                 <?php
@@ -38,7 +38,7 @@
                 
             </div>
             <hr>
-           <?php require("/footer.php"); ?>
+           <?php require("../footer.php"); ?>
         </div>        
     </body>
 </html>
