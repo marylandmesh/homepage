@@ -330,9 +330,11 @@ td {
 }
 
 .sidebar ul {
-	
+	margin: 0;
 }
 
 .sidebar li {
-	
+	list-style: none;
+	background-color: #EEE;
+	border: 1px solid #CCC;
 }
