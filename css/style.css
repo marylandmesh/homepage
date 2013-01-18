@@ -1,9 +1,14 @@
 @charset "UTF-8";
 
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
 body {
 	background-color: #FFF;
 	color: #333;
-	margin: 0;
 	font-family: SourceSansProLight;
 }
 
