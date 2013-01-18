@@ -296,3 +296,15 @@ td {
 	display: inline-block;
 	float: right;
 }
+
+/*
+========================================
+			SIDEBAR
+========================================
+*/
+
+.sidebar {
+	float: left;
+	width: 200px;
+	border: 1px solid #EEE;
+}

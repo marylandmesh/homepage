@@ -8,6 +8,9 @@
     <body>
     	<div class="center">
         	<?php require("header.php"); ?>
+            <div class="sidebar">
+            	hai, bitches.
+            </div>
             <div class="wrap">
             	<?php
 					include_once "blog/markdown.php";
