@@ -335,7 +335,7 @@ td {
 	padding: 0;
 }
 
-.sidebar li {
+.sidebar li, a.sidebar li {
 	margin: 0;
 	padding: 3px 0px;
 	text-align: center;
@@ -346,6 +346,10 @@ td {
 	width: 100%;
 }
 
-.sidebar li:last-child {
+a.sidebar li:hover {
+	background-color: #F90;
+}
+
+a.sidebar li:last-child {
 	border-bottom: 1px solid #CCC;
 }
