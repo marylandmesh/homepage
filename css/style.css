@@ -81,6 +81,7 @@ hr {
 
 .center {
 	text-align: center;
+	margin: auto;
 }
 
 .title {
@@ -303,8 +304,14 @@ td {
 ========================================
 */
 
-.sidebar {
+.sidebar_l {
 	float: left;
-	width: 200px;
+	width: 10%;
+	border: 1px solid #EEE;
+}
+
+.sidebar_r {
+	float: right;
+	width: 10%;
 	border: 1px solid #EEE;
 }

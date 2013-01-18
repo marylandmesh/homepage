@@ -8,8 +8,8 @@
     <body>
     	<div class="center">
         	<?php require("header.php"); ?>
-            <div class="sidebar">
-            	hai, bitches.
+            <div class="sidebar_l">
+            	left
             </div>
             <div class="wrap">
             	<?php
@@ -38,6 +38,9 @@
 						break;
 					}
 				?>
+            </div>
+            <div class="sidebar_r">
+            	right
             </div>
             <hr>
             <?php require("footer.php"); ?>
