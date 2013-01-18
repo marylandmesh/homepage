@@ -10,7 +10,11 @@
         	<?php require("header.php"); ?>
             <div class="sidebar_l">
             	<div class="sidebar">
-                	left sidebar
+                	<ul>
+                    	<li><a href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></li>
+                        <li><a href="https://wiki.projectmeshnet.org/Maryland_Mesh">wiki</a></li>
+                        <li><a href="https://plus.google.com/communities/100874292106037502249">google+</a></li>
+                    </ul>
                 </div>
             </div>
             <div class="wrap">

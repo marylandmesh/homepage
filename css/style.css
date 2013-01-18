@@ -308,11 +308,11 @@ td {
 */
 
 .sidebar {
-	background-color: #EEE;
-	border: 1px solid #CCC;
+	background-color: #FFF;
+	border: 1px solid #EEE;
 	margin-left: auto;
 	margin-right: auto;
-	width: 90%;
+	width: 95%;
 }
 
 .sidebar_l {
@@ -327,4 +327,12 @@ td {
 	width: 22.7%;
 	display: inline-block;
 	margin-right: 1%;
+}
+
+.sidebar ul {
+	
+}
+
+.sidebar li {
+	
 }
