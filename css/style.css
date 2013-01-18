@@ -352,6 +352,10 @@ td {
 	border-bottom: none !important;
 }
 
+.sidebar li:last-child {
+	border-bottom: 1px solid #CCC !important;
+}
+
 .sidebar li:hover {
 	background-color: #F90;
 	color: #FFF;
