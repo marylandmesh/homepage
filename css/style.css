@@ -328,14 +328,14 @@ td {
 }
 
 .sidebar_l {
-	float: left;
+	position: absolute;
 	width: 22.5%;
 	display: inline-block;
 	margin-left: 1%;
 }
 
 .sidebar_r {
-	float: right;
+	position: absolute;
 	width: 22.5%;
 	display: inline-block;
 	margin-right: 1%;
