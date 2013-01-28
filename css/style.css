@@ -332,6 +332,7 @@ td {
 	width: 22.5%;
 	display: inline-block;
 	left: 1%;
+	margin-top: -20px;
 }
 
 .sidebar_r {
