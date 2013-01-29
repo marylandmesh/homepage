@@ -82,7 +82,8 @@
                 </div>
                 <div class="unboxed" id="Google+">
                 	<p><a href="https://plus.google.com/communities/100874292106037502249">Google+</a></p>
-                    <p></p>
+                    <p>Our Google+ page is a good place to view general community discussions and announcements.
+                    Everyone is welcome to join in!</p>
                 </div>
                 <div class="unboxed" id="email">
                 	#comingsoon
