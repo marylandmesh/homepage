@@ -23,15 +23,7 @@
                 	depends on collaboration between neighbors, and
                 	anyone can have access.</p>
                 </div>
-                
-                <a href="#meshlocal" class="nocolor"><div class="question">
-                	What is a meshlocal?
-                </div></a>
-                <div class="answer" id="meshlocal">
-                	<p>A meshlocal is a number of meshnet nodes which are geographically 
-                    close to each other. Meshlocals mainly exist in and/or around cities.</p>
-                </div>
-                
+
                 <a href="#problems" class="nocolor"><div class="question">
                 	What are the problems with what we have now?
                 </div></a>
@@ -93,13 +85,6 @@
                     It is, however, the first attempt to create a statewide 
                     <a href="#meshlocal">meshlocal</a>. Its activity and members 
                     (centering around University of Maryland Baltimore County) make it an exemplary one.</p>
-
-					<p>Our overall goal is to create a backbone from which smaller, 
-                    more specific meshlocals can begin. For meshlocals to begin 
-                    and grow, and for better coverage, we want more people to be 
-                    aware of Hyperboria, and of Maryland Mesh in particular. 
-                    It could be as simple as getting people on the map or on IRC, 
-                    or as central as running a dedicated node and setting up physical links.</p>
                 </div>
                <!-- 
                 <a href="#coverage" class="nocolor"><div class="question">

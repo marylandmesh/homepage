@@ -82,6 +82,7 @@
                 </div>
                 <div class="unboxed" id="Google+">
                 	<p><a href="https://plus.google.com/communities/100874292106037502249">Google+</a></p>
+                    <p></p>
                 </div>
                 <div class="unboxed" id="email">
                 	#comingsoon
