@@ -36,6 +36,8 @@
             </div>
             <div class="sidebar_r">
             	<div class="sidebar">
+                	<hr>
+                    <p>
                 	<ul>
                     	<a href="http://www.reddit.com/r/marylandmesh/"><li>/r/marylandmesh</li></a>
                         <a href="https://wiki.projectmeshnet.org/Maryland_Mesh"><li>Wiki</li></a>
@@ -45,6 +47,8 @@
 						<a href="/contact.php"><li>Contact Us</li></a>
 						<a href="/faq.php"><li>FAQ</li></a>
                     </ul>
+                    </p>
+                    <hr>
                 </div>
             </div>
             <div class="wrap">
