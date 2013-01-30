@@ -138,7 +138,8 @@
 					radio or other transmitter, which would be a one
 					time cost in the $50-100 range. We're not at that
 					point just yet, (though we have some testing
-					hardware,) so joining Maryland Mesh won't cost you
+					hardware), so joining Maryland 
+Mesh won't cost you
 					a cent.</p>
                 </div>
                 
