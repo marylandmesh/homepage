@@ -80,34 +80,69 @@
                 	Why <i>Maryland</i> Meshnet?
                 </div></a>
                 <div class="answer" id="maryland">
-                	<p>Maryland Meshnet is not the first of its kind; 
-                    it is preceded by Seattle Mesh and New York Mesh. 
-                    It is, however, the first attempt to create a statewide 
-                    <a href="#meshlocal">meshlocal</a>. Its activity and members 
-                    (centering around University of Maryland Baltimore County) make it an exemplary one.</p>
+                	<p>Maryland Meshnet is not the first of its kind;
+                    it is preceded by Seattle Mesh and New York Mesh.
+                    It is, however, the first attempt to create a
+                    statewide <a href="#meshlocal">meshlocal</a>. Its
+                    activity and members (centering around University
+                    of Maryland Baltimore County) make it an exemplary
+                    one.</p>
                 </div>
-               <!-- 
+
                 <a href="#coverage" class="nocolor"><div class="question">
                 	What sort of coverage is there now?
                 </div></a>
                 <div class="answer" id="coverage">
-                	Answer.
+                	<p>The majority of connections across Hyperboria
+                	use the existing Internet right now, but create a
+                	real CJDNS network. Because of our cluster of
+                	virtual private servers (VPS) and dedicated
+                	servers in northern Maryland and southern New
+                	Jersey, that is the "center" of our
+                	network. Anyone in Maryland or the surrounding
+                	states is welcome to connect to our servers,
+                	though.</p>
+					<p>No wireless coverage exists yet. We (Hyperboria
+					as a whole) are trying to find suitable,
+					affordable hardware for wireless links. When we
+					start arranging wireless coverage, Baltimore (with
+					University of Maryland Baltimore County) will
+					probably be the first area of "general"
+					coverage.</p>
                 </div>
                 
                 <a href="#start" class="nocolor"><div class="question">
                 	How can I get on?
                 </div></a>
                 <div class="answer" id="start">
-                	Answer.
+                	<p>Anyone can be connected to Hyperboria. It is a
+                	"friend to friend" style network, in the sense
+                	that you have to actually speak to someone who is
+                	already in the network in order to be able to
+                	connect. This means that you'll have to
+					<a href="/contact.php">contact us</a>, or know
+					someone who already is connected, in order to
+					access Hyperboria. There are more
+					instructions <a href="#connect">below</a>.</p>
                 </div>
                 
                 <a href="#cost" class="nocolor"><div class="question">
                 	How much would it cost me?
                 </div></a>
                 <div class="answer" id="cost">
-                	Answer.
+                	<p>Hyperboria is founded on the ideals of free and
+                	open software. This means that it
+                	will <i>never</i> cost you a cent to join
+                	Hyperboria. All of the software involved is free
+                	and open source.</p>
+					<p>To get a wireless connection, once wireless
+					coverage is established, you may need to buy a
+					radio or other transmitter, which would be a one
+					time cost in the $50-100 range. We're not at that
+					point just yet, (though we have some testing
+					hardware,) so joining Maryland Mesh won't cost you
+					a cent.</p>
                 </div>
-				-->
                 
                 <a href="#connect" class="nocolor"><div class="question">
                 	How can I connect?
