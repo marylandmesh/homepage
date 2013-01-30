@@ -82,11 +82,10 @@
                 <div class="answer" id="maryland">
                 	<p>Maryland Meshnet is not the first of its kind;
                     it is preceded by Seattle Mesh and New York Mesh.
-                    It is, however, the first attempt to create a
-                    statewide <a href="#meshlocal">meshlocal</a>. Its
-                    activity and members (centering around University
-                    of Maryland Baltimore County) make it an exemplary
-                    one.</p>
+                    It is, however, the first attempt to create
+                    statewide Hyperboria coverage, and to actively
+                    support the development of more limited-area
+					<a href="#meshlocal">meshlocals</a>.</p>
                 </div>
 
                 <a href="#coverage" class="nocolor"><div class="question">
@@ -94,11 +93,10 @@
                 </div></a>
                 <div class="answer" id="coverage">
                 	<p>The majority of connections across Hyperboria
-                	use the existing Internet right now, but create a
-                	real CJDNS network. Because of our cluster of
-                	virtual private servers (VPS) and dedicated
-                	servers in northern Maryland and southern New
-                	Jersey, that is the "center" of our
+                	use the existing Internet right now. Because of
+                	our cluster of virtual private servers (VPS) and
+                	dedicated servers in northern Maryland and
+                	southern New Jersey, that is the "center" of our
                 	network. Anyone in Maryland or the surrounding
                 	states is welcome to connect to our servers,
                 	though.</p>
