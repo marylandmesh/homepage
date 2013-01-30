@@ -13,7 +13,7 @@ body {
 }
 
 a {
-	color: #F90;
+	color: #5a23ac;
 	text-decoration: none;
 	-webkit-transition: color .5s ease;
 	-moz-transition: color .5s ease;
@@ -344,7 +344,6 @@ td {
 .sidebar ul {
 	margin: 0;
 	padding: 0;
-	boder: 1px solid #CCC;
 	font-family: SourceSansProRegular;
 }
 
