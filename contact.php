@@ -88,7 +88,7 @@
                 <div class="unboxed" id="email">
                 	<p>Sasha Crofter (DuoNoxSol), primary
                 	webmaster/organizer, can be contacted at
-                	alexander@maryland.projectmeshnet.org.</p>
+                	<a href="mailto:alexander@maryland.projectmeshnet.org">alexander@maryland.projectmeshnet.org.</a></p>
                 </div>
                 <div class="unboxed" id="reddit">
                 	<p><a href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
