@@ -86,7 +86,9 @@
                     Everyone is welcome to join in!</p>
                 </div>
                 <div class="unboxed" id="email">
-                	#comingsoon
+                	<p>Sasha Crofter (DuoNoxSol), primary
+                	webmaster/organizer, can be contacted at
+                	alexander@maryland.projectmeshnet.org.</p>
                 </div>
                 <div class="unboxed" id="reddit">
                 	<p><a href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
