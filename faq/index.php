@@ -109,7 +109,7 @@
                 	that you have to actually speak to someone who is
                 	already in the network in order to be able to
                 	connect. This means that you'll have to
-					<a href="/contact.php">contact us</a>, or know
+					<a href="/contact/">contact us</a>, or know
 					someone who already is connected, in order to
 					access Hyperboria. There are more
 					instructions <a href="#connect">below</a>.</p>
@@ -146,7 +146,7 @@ Mesh won't cost you
                   you. Finding such a person can be done
                   on <a href="http://chat.efnet.org:9090/?channels=#marylandmesh&Login=Login">IRC</a>, 
                   <a href="http://reddit.com/r/marylandmesh">reddit</a>,
-                  or on our <a href="contact.php#mailinglist">mailing list</a>. We'll
+                  or on our <a href="/contact/mailinglist">mailing list</a>. We'll
                   walk you through the process of connecting with as
                   much or as little assistance as you need. We're
                   usually around, and we're always happy to
@@ -162,9 +162,9 @@ Mesh won't cost you
                     The best way to see the active and potential nodes for the
                     Maryland Meshnet, exclusively, is to view our <a href="http://maryland.ninux.org/">nodeshot instance</a>.
                 </div>
-                <p><sub><i>Didn't answer your questions? Feel free to <a href="contact.php">contact</a> us, 
+                <p><sub><i>Didn't answer your questions? Feel free to <a href="/contact/">contact</a> us, 
                 <a href="https://github.com/marylandmesh/homepage/issues/new">submit an issue</a>, or shoot us
-                an <a href="contact.php#email">email</a>.</i></sub></p>
+                an <a href="/contact/#email">email</a>.</i></sub></p>
             </div>
             <hr>
             <?php require("../footer.php"); ?>
