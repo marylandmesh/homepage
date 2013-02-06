@@ -1,4 +1,4 @@
-        	<?php require("/header.php"); ?>
+        	<?php require("../header.php"); ?>
             <div class="wrap">
             	<div class="boxy">
                 	<a href="#IRC">
@@ -102,4 +102,4 @@
                 
             </div>
             <hr>
-            <?php require("/footer.php"); ?>
+            <?php require("../footer.php"); ?>

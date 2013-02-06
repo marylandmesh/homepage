@@ -1,4 +1,4 @@
-        	<?php require("/header.php"); ?>
+        	<?php require("../header.php"); ?>
             <div class="wrap">
             	<div class="header">
                 	Frequently Asked Questions
@@ -167,4 +167,4 @@ Mesh won't cost you
                 an <a href="contact.php#email">email</a>.</i></sub></p>
             </div>
             <hr>
-            <?php require("/footer.php"); ?>
+            <?php require("../footer.php"); ?>

@@ -1,5 +1,5 @@
-<?php require("/header.php"); ?>
+<?php require("../header.php"); ?>
 
 maps go here!
 
-<?php require("/footer.php"); ?>
+<?php require("../footer.php"); ?>
