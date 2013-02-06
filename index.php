@@ -35,8 +35,8 @@
                         <a href="https://plus.google.com/communities/100874292106037502249"><li>Google+</li></a>
                         <a href="http://maryland.ninux.org/"><li>Nodeshot</li></a>
                         <hr>
-						<a href="/contact.php"><li>Contact Us</li></a>
-						<a href="/faq.php"><li>FAQ</li></a>
+						<a href="/contact/"><li>Contact Us</li></a>
+						<a href="/faq/"><li>FAQ</li></a>
                     </ul>
                     </p>
                     <hr>
