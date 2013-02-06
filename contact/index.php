@@ -1,4 +1,4 @@
-        	<?php require("header.php"); ?>
+        	<?php require("/header.php"); ?>
             <div class="wrap">
             	<div class="boxy">
                 	<a href="#IRC">
@@ -94,7 +94,7 @@
                     Project Meshnet <a href="https://wiki.projectmeshnet.org/">wiki</a> is a growing page. Basic
                     information, and possibly some in-depth explanations can be found here. If you have questions
                     that are not answered <a href="https://wiki.projectmeshnet.org/Maryland_Mesh">there</a>, 
-                    or on the <a href="faq.php">FAQ</a>, <a href="contact.php">let us know</a>.</p>
+                    or on the <a href="faq.php">FAQ</a>, <a href="index.php">let us know</a>.</p>
                 </div>
                 <div class="unboxed" id="mailinglist">
                 	#comingsoon
@@ -102,4 +102,4 @@
                 
             </div>
             <hr>
-            <?php require("footer.php"); ?>
+            <?php require("/footer.php"); ?>
