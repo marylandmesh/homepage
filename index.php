@@ -20,7 +20,7 @@
                     hands, and in your neighbors' hands.
 					</p>
 					<p>
-					That's why we're building a <a href="faq.php#meshnet">Meshnet</a>.
+					That's why we're building a <a href="/faq/#meshnet">Meshnet</a>.
 					</p>
                     <hr>
                 </div>
