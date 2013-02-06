@@ -85,7 +85,7 @@
                 	<p><a href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
                     <p>Inspired by <a href="http://www.reddit.com/r/darknetplan/">/r/darknetplan</a>, 
                     we began our own subreddit for announcements and discussions. 
-                    Our <a href="blog/">blog</a> and <a href="/">main page</a> will be the primary means 
+                    Our <a href="/blog/">blog</a> and <a href="/">main page</a> will be the primary means 
                     of announcements, but discussions will remain on reddit.</p>
                 </div>
                 <div class="unboxed" id="wiki">
@@ -94,7 +94,7 @@
                     Project Meshnet <a href="https://wiki.projectmeshnet.org/">wiki</a> is a growing page. Basic
                     information, and possibly some in-depth explanations can be found here. If you have questions
                     that are not answered <a href="https://wiki.projectmeshnet.org/Maryland_Mesh">there</a>, 
-                    or on the <a href="faq.php">FAQ</a>, <a href="index.php">let us know</a>.</p>
+                    or on the <a href="/faq/">FAQ</a>, <a href="/contact/">let us know</a>.</p>
                 </div>
                 <div class="unboxed" id="mailinglist">
                 	#comingsoon
