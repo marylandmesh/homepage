@@ -1,4 +1,15 @@
-		<?php require("header.php"); ?>
+<!DOCTYPE>
+<html>
+    <head>
+    	<?php require("../header.php"); ?>
+    </head>
+    <body>
+    	<div class="center">
+            <div class="title">
+                <a href="/" class="nocolor">Maryland Meshnet</a>
+            </div>
+            The Free State's Free Internet
+            <hr>
             <div class="sidebar_l">
             	<div class="sidebar">
                 	<hr>
@@ -70,4 +81,7 @@
 					}
 				?>
             <hr>
-            <?php require("footer.php"); ?>
+            <?php require("../footer.php"); ?>
+		</div>        
+    </body>
+</html>
