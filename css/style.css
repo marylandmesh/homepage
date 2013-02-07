@@ -377,11 +377,10 @@ td {
 .maps {
 	margin-right: auto;
 	margin-left: auto;
-	width: 70%;
+	width: 100%;
 }
 
 .map {
-	width: 500px;
+	width: 45%;
 	display: inline-block;
-	border: 2px solid #5a23ac;
 }
