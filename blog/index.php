@@ -1,6 +1,16 @@
-		<?php require("../header.php"); ?>
+<!DOCTYPE>
+<html>
+    <head>
+    	<?php require("../header.php"); ?>
+    </head>
+    <body>
+    	<div class="center">
+            <div class="title">
+                <a href="/" class="nocolor">Maryland Meshnet</a>
+            </div>
+            The Free State's Free Internet
+            <hr>
             <div class="wrap">
-            	
                 <?php
 					include_once "markdown.php";
 					$files = glob('posts/*.{md}', GLOB_BRACE);
@@ -26,7 +36,9 @@
 						echo '</div>';
 					}
 				?>
-                
             </div>
             <hr>
            <?php require("../footer.php"); ?>
+		</div>        
+    </body>
+</html>

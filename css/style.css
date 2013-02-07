@@ -54,6 +54,11 @@ hr {
 	src: url('../font/icons.ttf');
 }
 
+@font-face {
+	font-family: Arvil;
+	src: url('../font/Arvil_Sans.ttf');
+}
+
 /*
 ========================================
 			KEYFRAMES
@@ -366,24 +371,4 @@ td {
 
 .sidebar li:hover {
 	background-color: #DDD;
-}
-
-/*
-========================================
-			MAPS
-========================================
-*/
-
-.maps {
-	margin-right: auto;
-	margin-left: auto;
-	width: 100%;
-	text-align: center;
-}
-
-.map {
-	width: 300px;
-	height: 300px;
-	display: inline-block;
-	border: 1px solid #CCC;
 }
