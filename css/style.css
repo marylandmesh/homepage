@@ -367,3 +367,18 @@ td {
 .sidebar li:hover {
 	background-color: #DDD;
 }
+
+/*
+========================================
+			MAPS
+========================================
+*/
+
+.maps {
+	width: 80%;
+}
+
+.map {
+	width: 200px;
+	display: inline-block;
+}
