@@ -375,10 +375,13 @@ td {
 */
 
 .maps {
-	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 70%;
 }
 
 .map {
-	width: 200px;
+	width: 500px;
 	display: inline-block;
+	border: 2px solid #5a23ac;
 }
