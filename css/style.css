@@ -378,9 +378,11 @@ td {
 	margin-right: auto;
 	margin-left: auto;
 	width: 100%;
+	text-align: center;
 }
 
 .map {
-	width: 45%;
+	width: 300px;
+	height: 300px;
 	display: inline-block;
 }
