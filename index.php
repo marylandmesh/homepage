@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
     <head>
-    	<?php require("../header.php"); ?>
+    	<?php require("header.php"); ?>
     </head>
     <body>
     	<div class="center">
@@ -81,7 +81,7 @@
 					}
 				?>
             <hr>
-            <?php require("../footer.php"); ?>
+            <?php require("footer.php"); ?>
 		</div>        
     </body>
 </html>
