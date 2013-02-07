@@ -1,10 +1,8 @@
 <!DOCTYPE>
 <html>
     <head>
-        <title>Maryland Meshnet</title>
-        <link rel="stylesheet" href="../css/style.css">
+    	<?php require("../header.php"); ?>
         <link rel="stylesheet" href="../css/stat.css">
-        <link rel="shortcut icon" href="../img/icon_16.png">
     </head>
     <body>
     	<div class="paper">
@@ -50,13 +48,6 @@
                 </div>
             </div>
         </div>
-        <div class="footer">
-        	<a href="/">Home</a> -
-            <a href="/blog/">Blog</a> -
-            <a href="/faq/">FAQ</a> -
-            <a href="/contact/">Contact</a> -
-            <a href="http://maryland.ninux.org/">Nodeshot</a> -
-            <a href="/stat/index.php">Statistics</a>
-        </div>
+        <?php require("../footer.php"); ?>
     </body>
 </html>
