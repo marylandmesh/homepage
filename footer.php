@@ -4,5 +4,5 @@
     <a href="/faq/">FAQ</a> &bull;
     <a href="/contact/">Contact</a> &bull;
     <a href="http://map.maryland.projectmeshnet.org/">Nodeshot</a> &bull;
-    <a href="http://machupovir.us/">Statistics</a>
+    <a href="http://stats.hyperboria.net/">Statistics</a>
 </div>
