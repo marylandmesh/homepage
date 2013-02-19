@@ -44,7 +44,7 @@
                     	<a href="http://www.reddit.com/r/marylandmesh/"><li>/r/marylandmesh</li></a>
                         <a href="https://wiki.projectmeshnet.org/Maryland_Mesh"><li>Wiki</li></a>
                         <a href="https://plus.google.com/communities/100874292106037502249"><li>Google+</li></a>
-                        <a href="http://maryland.ninux.org/"><li>Nodeshot</li></a>
+                        <a href="http://map.maryland.projectmeshnet.org/"><li>Nodeshot</li></a>
                         <hr>
 						<a href="/contact/"><li>Contact Us</li></a>
 						<a href="/faq/"><li>FAQ</li></a>
