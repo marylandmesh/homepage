@@ -77,39 +77,41 @@
                     
                     
                     
-                    <p><sub><i>Note: generally, only two people are on 
-                    <a href="http://freenode.net/">freenode</a> at a time;
-                    we prefer <a href="http://www.efnet.org/">efnet</a>.
-                    </i></sub></p>
-                </div>
-                <div class="unboxed" id="Google+">
-                	<p><a href="https://plus.google.com/communities/100874292106037502249">Google+</a></p>
-                    <p>Our Google+ page is a good place to view general community discussions and announcements.
-                    Everyone is welcome to join in!</p>
-                </div>
-                <div class="unboxed" id="email">
-                	<p>Sasha Crofter (DuoNoxSol), primary
-                	webmaster/organizer, can be contacted at
-                	<a href="mailto:alexander@maryland.projectmeshnet.org">alexander@maryland.projectmeshnet.org.</a></p>
-                </div>
-                <div class="unboxed" id="reddit">
-                	<p><a href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
-                    <p>Inspired by <a href="http://www.reddit.com/r/darknetplan/">/r/darknetplan</a>, 
-                    we began our own subreddit for announcements and discussions. 
-                    Our <a href="/blog/">blog</a> and <a href="/">main page</a> will be the primary means 
-                    of announcements, but discussions will remain on reddit.</p>
-                </div>
-                <div class="unboxed" id="wiki">
-                	<p><a href="https://wiki.projectmeshnet.org/Maryland_Mesh">wiki.projectmeshnet.org/Maryland_Mesh</a></p>
-                    <p>Still under construction, the Maryland Meshnet page of the
-                    Project Meshnet <a href="https://wiki.projectmeshnet.org/">wiki</a> is a growing page. Basic
-                    information, and possibly some in-depth explanations can be found here. If you have questions
-                    that are not answered <a href="https://wiki.projectmeshnet.org/Maryland_Mesh">there</a>, 
-                    or on the <a href="/faq/">FAQ</a>, <a href="/contact/">let us know</a>.</p>
-                </div>
-                <div class="unboxed" id="mailinglist">
-                	#comingsoon
-                </div>
+                    <p><sub><i>Note: generally, only two people are on
+                    <a href="http://freenode.net/">freenode</a> at a
+                    time; we prefer <a
+                    href="http://www.efnet.org/">efnet</a>.
+                    </i></sub></p> </div> <div class="unboxed"
+                    id="Google+"> <p><a
+                    href="https://plus.google.com/communities/100874292106037502249">Google+</a></p>
+                    <p>Our Google+ page is a good place to view
+                    general community discussions and announcements.
+                    Everyone is welcome to join in!</p> </div> <div
+                    class="unboxed" id="email"> <p>Alexander Bauer
+                    (DuoNoxSol), organizer, can be contacted at <a
+                    href="mailto:sasha@maryland.projectmeshnet.org">sasha@maryland.projectmeshnet.org.</a></p>
+                    </div> <div class="unboxed" id="reddit"> <p><a
+                    href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
+                    <p>Inspired by <a
+                    href="http://www.reddit.com/r/darknetplan/">/r/darknetplan</a>,
+                    we began our own subreddit for announcements and
+                    discussions.  Our <a href="/blog/">blog</a> and <a
+                    href="/">main page</a> will be the primary means
+                    of announcements, but discussions will remain on
+                    reddit.</p> </div> <div class="unboxed" id="wiki">
+                    <p><a
+                    href="https://wiki.projectmeshnet.org/Maryland_Mesh">wiki.projectmeshnet.org/Maryland_Mesh</a></p>
+                    <p>Still under construction, the Maryland Meshnet
+                    page of the Project Meshnet <a
+                    href="https://wiki.projectmeshnet.org/">wiki</a>
+                    is a growing page. Basic information, and possibly
+                    some in-depth explanations can be found here. If
+                    you have questions that are not answered <a
+                    href="https://wiki.projectmeshnet.org/Maryland_Mesh">there</a>,
+                    or on the <a href="/faq/">FAQ</a>, <a
+                    href="/contact/">let us know</a>.</p> </div> <div
+                    class="unboxed" id="mailinglist"> #comingsoon
+                    </div>
                 
             </div>
             <hr>
