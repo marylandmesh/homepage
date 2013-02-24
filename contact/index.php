@@ -74,7 +74,7 @@
                         </tr>
                     </table>
                     </p>
-                    
+                   
                     
                     
                     <p><sub><i>Note: generally, only two people are on
@@ -89,7 +89,7 @@
                     Everyone is welcome to join in!</p> </div> <div
                     class="unboxed" id="email"> <p>Alexander Bauer
                     (DuoNoxSol), organizer, can be contacted at <a
-                    href="mailto:sasha@maryland.projectmeshnet.org">sasha@maryland.projectmeshnet.org.</a></p>
+                    href="mailto:sasha@maryland.projectmeshnet.org">sasha@maryland.projectmeshnet.org</a>, and his PGP key id is 8191E21A76AAD89B.</p>
                     </div> <div class="unboxed" id="reddit"> <p><a
                     href="http://www.reddit.com/r/marylandmesh/">/r/marylandmesh</a></p>
                     <p>Inspired by <a
