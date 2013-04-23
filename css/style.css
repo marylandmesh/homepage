@@ -129,3 +129,7 @@ h6 {
 .google:hover {
 	border: 5px solid rgba(200, 0, 0, .4);
 }
+
+.blog:hover {
+	border: 5px solid rgba(100, 0, 100, .4);
+}
