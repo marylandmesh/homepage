@@ -47,6 +47,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 900;
 }
 
+.active h1, .active h2, .active h3, .active h4, .active h5, .active h6 {
+	color: #F6F6F6;
+}
+
 h1 {
 	font-size: 64px;
 }
@@ -118,6 +122,10 @@ h6 {
 	border: 3px solid #CCC;
 	background-color: #FFF;
 	padding: 10px;
+}
+
+.icon:hover {
+	padding: 15px;
 }
 
 .twitter:hover {
