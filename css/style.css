@@ -26,6 +26,17 @@ a:hover {
 
 /*
 ==============================
+           FONTS
+==============================
+*/
+
+@font-face {
+	font-family: icons;
+	src: url('../font/icons.ttf');
+}
+
+/*
+==============================
            HEADERS
 ==============================
 */
@@ -84,4 +95,19 @@ h6 {
 .write {
 	padding: 25px 50px;
 	margin: 0 auto;
+}
+
+.icons {
+	text-align: center;
+}
+
+.icon {
+	font-family: icons;
+	font-size: 32px;
+	color: #CCC;
+	border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border: 3px solid #CCC;
+	padding: 10px;
 }
