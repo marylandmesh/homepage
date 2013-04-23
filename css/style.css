@@ -13,11 +13,11 @@ body {
 a {
 	color: #76bcae;
 	text-decoration: none;
-	-webkit-transition: all .2s linear;
-	-moz-transition: all .2s linear;
-	-o-transition: all .2s linear;
-	-ms-transition: all .2s linear;
-	transition: all .2s linear;
+	-webkit-transition: all .1s linear;
+	-moz-transition: all .1s linear;
+	-o-transition: all .1s linear;
+	-ms-transition: all .1s linear;
+	transition: all .1s linear;
 }
 
 a:hover {
@@ -110,5 +110,22 @@ h6 {
 	-moz-border-radius: 40px;
 	-webkit-border-radius: 40px;
 	border: 3px solid #CCC;
+	background-color: #FFF;
 	padding: 10px;
+}
+
+.twitter:hover {
+	border: 5px solid rgba(50, 150, 255, .4);
+}
+
+.irc:hover {
+	border: 5px solid rgba(255, 150, 0, .4);
+}
+
+.reddit:hover {
+	border: 5px solid rgba(0, 0, 0, .4);
+}
+
+.google:hover {
+	border: 5px solid rgba(200, 0, 0, .4);
 }
