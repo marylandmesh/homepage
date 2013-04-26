@@ -147,3 +147,7 @@ h6 {
 .blog:hover {
 	border: 5px solid rgba(100, 0, 100, .4);
 }
+
+.map:hover {
+	border: 5px solid rgba(100, 200, 50, .4);
+}
