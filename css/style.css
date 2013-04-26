@@ -101,6 +101,24 @@ h6 {
 	margin: 0 auto;
 }
 
+.more {
+	padding: 10px 30px;
+	background-color: #EEE;
+}
+
+.readmore, .hidemore {
+	cursor: pointer;
+	background-color: #EEE;
+	padding: 5px;
+	color: #AAA;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
 .icons {
 	text-align: center;
 	padding: 20px 0px;
