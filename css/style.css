@@ -103,7 +103,7 @@ h6 {
 
 .more {
 	padding: 10px 30px;
-	background-color: #EEE;
+	border: 1px solid #EEE;
 }
 
 .readmore, .hidemore {
