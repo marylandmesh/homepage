@@ -169,3 +169,7 @@ h6 {
 .map:hover {
 	border: 5px solid rgba(100, 200, 50, .4);
 }
+
+.wiki:hover {
+	border: 5px solid rgba(0, 60, 190, .4);
+}
