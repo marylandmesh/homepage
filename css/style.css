@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@Charset "UTF-8";
 
 body {
 	margin: 0;
@@ -172,4 +172,8 @@ h6 {
 
 .wiki:hover {
 	border: 5px solid rgba(0, 60, 190, .4);
+}
+
+.pm:hover {
+    border: 5px solid rgba(255, 100, 30, .4)
 }
