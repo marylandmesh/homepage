@@ -26,6 +26,36 @@ a:hover {
 
 /*
 ==============================
+           TABLE
+==============================
+*/
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	text-align: center;
+}
+
+th, td {
+	padding: 5px;
+	border: 1px solid #EEE;
+}
+
+th {
+	background-color: #EEE;
+}
+
+
+tr {
+	
+}
+
+td {
+	
+}
+
+/*
+==============================
            FONTS
 ==============================
 */
