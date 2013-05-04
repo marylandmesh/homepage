@@ -45,15 +45,6 @@ th {
 	background-color: #EEE;
 }
 
-
-tr {
-	
-}
-
-td {
-	
-}
-
 /*
 ==============================
            FONTS
@@ -119,6 +110,10 @@ h6 {
 .slogan {
     font-style: italic;
     color: #CCC;
+}
+
+.video {
+	text-align: center;
 }
 
 .wrap {
