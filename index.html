@@ -3,9 +3,11 @@
   <head>
     <title>Maryland Meshnet</title>
     <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/video.css"/>
     <link rel="shortcut icon" href="img/logo.png"/>
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/flowplayer.js"></script>
     <body>
       <div class="title">
         <h1>Maryland Meshnet</h1>
@@ -14,7 +16,14 @@
         </div>
       </div>
       <div class="video">
-		<iframe src="http://player.vimeo.com/video/45819231?title=0&amp;byline=0&amp;portrait=0" width="1024" height="575" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	    <div class="flowplayer aside-time no-volume no-mute"
+  	    data-ratio="0.5625" data-embed="false">
+	      <video>
+	  	    <source type="video/mp4" src="video/pm.mp4">
+	  	    <source type="video/webm" src="video/pm.webm">
+		    <source type="video/ogv" src="video/pm.ogv">
+         </video>
+	   </div>
       </div>
       <div class="wrap">
         <!--ABOUT SECTION-->
