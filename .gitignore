@@ -1,2 +1,4 @@
-# Stupid MAC OS X files
-.DS_STORE
+# Editor temporary files
+*~
+\#*
+.\#*
