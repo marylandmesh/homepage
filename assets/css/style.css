@@ -14,11 +14,11 @@ a {
     -o-transition: all .2s linear;
     -ms-transition: all .2s linear;
     transition: all .2s linear;
-    color: #BFD0E5;
+    color: #2E3A49;
 }
 
 a:hover {
-    color: #A8BDD8;
+    color: #272E36;
 }
 
 h1 {
@@ -108,13 +108,13 @@ h3 {
 }
 
 .big .button {
-    background-color: #BFD0E5;
+    background-color: #2E3A49;
     color: #FFF;
     padding: 10px 20px;
 }
 
 .big .button:hover {
-    background-color: #A8BDD8;
+    background-color: #272E36;
 }
 
 .big.big_m {
